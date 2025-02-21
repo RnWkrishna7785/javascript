@@ -1,0 +1,36 @@
+let x = 6;
+
+x + 3=9
+x - 3=3
+x * 3=18
+x / 3=2
+x % 3=0
+++x and x++ =7 and 7
+--x and x--= 7and7
+x ** 3=216
+
+
+2 == 2=true
+2 == 3=false
+"2" == 2=true
+2 == "4"=false
+2 === "2"=false
+3 != 3=false
+2 != 3=true
+3 != "3"=false
+2 != "4"=true
+2 === 2=true
+2 === "2"=false
+2 !== 2=false
+2 !== "2"=true
+3 === 2=false
+2 === "3"=false
+2 !== 3=true
+3 !== "2"=true
+
+3 >= 3=true
+3 <= 3=true
+2 >= 3=false
+6 >= 3=true
+33 <= 3=false
+34 <= 44=true
